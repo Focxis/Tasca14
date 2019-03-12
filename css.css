@@ -1,0 +1,120 @@
+body {
+	max-width: 1500px;
+}
+header {
+	padding: 0px 0px 50px 0px;
+	background: rgba(0, 0, 0, 0.7);
+	background-size: 100%;
+	border-radius: 40px;
+}
+header h1 {
+	text-align: center;
+	color: DarkRed;
+	text-shadow: 2px 2px red;
+	letter-spacing: 3px;
+	font-size: 400%;
+	background-color: black;
+	font-family: Impact, Charcoal, sans-serif;
+	border-style: solid;
+	border-color: red;
+	border-radius: 40px;
+	width: 50%;
+	position: relative;
+	left: 25%;
+}
+header h4 {
+	text-align: right;
+	color: red;
+	font-style: italic;
+	font-family: Sofia;
+}
+
+header ul {
+	list-style-type: none;
+	position: relative;
+	right: 33%;
+}
+header ul li {
+	float: right;
+	padding: 0px 15px;
+}
+header ul li a {
+	display: block;
+	text-decoration: none;
+	color: red;
+	font-family: Sofia;
+	border-style: solid;
+	border-color: red;
+	border-radius: 5px;
+	padding: 2px;
+}
+h1 {
+	color: white;
+	font-family: Aclonica;
+	font-weight: bold;
+	text-align: center;
+}
+p {
+	color: white;
+	font-family: Aclonica;
+	font-weight: bold;
+}
+ul li {
+	color: white;
+	font-family: Aclonica;
+	font-weight: bold;
+}
+h3 {
+	color: DarkRed;
+	font-family: Aclonica;
+	font-weight: bold;
+	text-shadow: 2px 2px red;
+	font-size: 30px;
+}
+#ex1 p{color: black; text-shadow: 2px 2px red;}
+#ex1 ul li{color: black; text-shadow: 2px 2px red;}
+#ex2 p{color: FireBrick; text-shadow: 2px 2px black;}
+#ex2 ul li{color: FireBrick; text-shadow: 2px 2px black;}
+#b ul {
+	list-style-type: none;
+	margin: auto;
+	position: relative;
+	right: 50px;
+	top: 20px;
+}
+#b ul li {
+	float: right;
+}
+#b ul li a{
+	display: block;
+	text-decoration: none;
+	border: 3px;
+	margin: .5em;
+}
+#twitter{
+	background: url(../img/t1.jpg) no-repeat;
+	padding: 20px;
+}
+#twitter:hover{
+	background: url(../img/t2.jpg) no-repeat;
+	padding: 20px;
+}
+#facebook{
+	background: url(../img/f1.jpg) no-repeat;
+	padding: 20px;
+}
+#facebook:hover{
+	background: url(../img/f2.jpg) no-repeat;
+	padding: 20px;
+}
+#a, #b {
+	width: 50%;
+	float: left;
+}
+footer {
+	border: 1px solid red;
+	background-color:rgba(192,192,192,0.3);
+	overflow: hidden;
+	border-radius: 10px;
+	margin: 60px 0px 0px 0px;
+}

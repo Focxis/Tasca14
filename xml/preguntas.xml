@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="preguntas.xsd">
+    <question id="q001">
+        <type>select</type>
+        <title>
+            1. ¿Qué NO es un juego de rol?
+        </title>
+        <option>Un juego social</option>
+        <option>Un juego de interpretación en grupo</option>
+        <option>Coger una katana y salir a la calle a matar gente</option>
+		<option>Una modalidad de juego cooperativo.</option>
+        <answer>2</answer>
+    </question>
+    <question id="q002">
+        <type>select</type>
+        <title>
+            2. ¿Qué es "un personaje"?
+        </title>
+        <option>Un alter ego al que interpretas y con el que participas en una historia.</option>
+        <option>Un nombre secreto para enmascarar tus crímenes.</option>
+        <option>Un youtuber.</option>
+		<option>Una persona absurda, que te hace levantar la vista al cielo y cuestionrte un sencillo "¿por qué?"</option>
+        <answer>0</answer>
+    </question>
+    <question id="q003">
+        <type>multiple</type>
+        <title>
+            3. ¿Qué significa ser un DJ?
+        </title>
+        <option>Persona que pincha en una discoteca.</option>
+        <option>El maestro de ceremonias, que realiza las reuniones sectarias.</option>
+        <option>Significa ser mi primo David José</option>
+        <option>DJ significa Director de Juegos, y es el encargado de organizar la historia y la partida.</option>
+		<option>(Inserte aquí opción ingeniosa pero no válida)</option>
+        <answer>3</answer>
+    </question>
+    <question id="q004">
+        <type>multiple</type>
+        <title>
+            4. ¿A qué otra actividad se parece jugar a Rol?
+        </title>
+        <option>El Carlos Duty ese</option>
+        <option>Un deporte de contacto como es el Rugby</option>
+        <option>El teatro</option>
+        <option>Un duelo de honor como los de Europa en el siglo XV</option>
+        <option>Los juegos infantiles de roles (Papá y mamá, por ejemplo)</option>
+        <answer>2</answer>
+        <answer>4</answer>
+    </question>
+    <question id="q005">
+        <type>text</type>
+        <title>
+            5. ¿Cómo se les llama a los juegos de rol en el mundo de los videojuegos? (Solo siglas)
+        </title>
+        <answer>rpg</answer>
+    </question>
+    <question id="q006">
+        <type>text</type>
+        <title>
+            6. ¿De cuantas caras es el dado más grande actualmente?
+        </title>
+        <answer>100</answer>
+    </question>
+    <question id="q007">
+        <type>radio</type>
+        <title>7. ¿De cual de los siguientes juegos se ha hecho una película y una serie animada?</title>
+        <option>Dragones y mazmorras</option>
+        <option>Cyberpunk 2020</option>
+        <option>Walhalla</option>
+		<option>Dark Heresy</option>
+		<option>Tenga</option>
+        <answer>0</answer>
+    </question>
+    <question id="q008">
+        <type>radio</type>
+        <title>8. ¿Cual es el principal objetivo de un juego de rol?</title>
+		<option>Ganar</option>
+		<option>Competir con el resto de jugadores</option>
+		<option>Divertirse</option>
+		<option>Aprenderse muchas normas para fastidiar al resto</option>
+		<option>No socializar con seres humanos "normales"</option>
+		<option>Pasar el rato porque no tienes amigos normales</option>
+        <answer>2</answer>
+    </question>
+    <question id="q009">
+        <type>checkbox</type>
+        <title>
+            9. ¿Cuales de los siguientes juegos pertenecen a "Mundo de Tinieblas"?
+        </title>
+        <option>Vampiro</option>
+        <option>Mago</option>
+        <option>Hombre Lobo</option>
+        <option>Dragón</option>
+        <option>Bastet</option>
+        <option>Momia</option>
+        <option>Fantasma</option>
+		<option>Angel</option>
+        <answer>0</answer>
+        <answer>1</answer>
+        <answer>2</answer>
+        <answer>4</answer>
+        <answer>5</answer>
+		<answer>6</answer>
+    </question>
+    <question id="q010">
+        <type>checkbox</type>
+        <title>
+            10. ¿Cuales de los siguientes juegos utiliza el sistema D20?
+        </title>
+        <option>Dragones y mazmorras</option>
+        <option>Pathfinder</option>
+        <option>Aquelarre</option>
+		<option>Warhammer</option>
+		<option>Conan</option>
+		<option>Leyenda de los 5 anillos</option>
+        <answer>0</answer>
+        <answer>1</answer>
+		<answer>4</answer>
+    </question>
+</questions>
